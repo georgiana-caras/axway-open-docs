@@ -31,3 +31,5 @@ Provide the mandatory profile name and the product name which will be used by th
 Open the existing profile by clicking on the profile name to edit details and update the profile. Profile can be deleted by clicking the 'trash can' icon.
 
 Profile used for a catalog subscription cannot be updated or deleted.
+
+For more infomration on [Transfer CFT](https://docs.axway.com/bundle/Transfer_CFT_322_UsersGuide_allOS_en_HTML5/page/Content/AxwayStartPage.htm)
