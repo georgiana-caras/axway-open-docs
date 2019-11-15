@@ -32,4 +32,4 @@ Open the existing profile by clicking on the profile name to edit details and up
 
 Profile used for a catalog subscription cannot be updated or deleted.
 
-For more infomration on [Transfer CFT](https://docs.axway.com/bundle/Transfer_CFT_322_UsersGuide_allOS_en_HTML5/page/Content/AxwayStartPage.htm)
+For more infomration on [Transfer CFT](https://docs.axway.com/bundle/FlowCentral_10_allOS_en_HTML5/page/first_flow_central_file_transfer.html)
