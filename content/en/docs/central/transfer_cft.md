@@ -2,7 +2,7 @@
 
 ## Before you start
 
-- You will need a user account for {{< variables/central_prod_name >}}
+- You will need a user account for AMPLIFY Central
 
 ## Objectives
 
