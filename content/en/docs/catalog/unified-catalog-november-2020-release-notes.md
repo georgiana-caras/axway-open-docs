@@ -10,7 +10,7 @@ The following new features and enhancements are available in this update.
 
 ### Categories management through the Unified Catalog UI
 
-Unified Catalog has been enhanced to enable Central Admin users to create and manage categories from the WebUI and provide a more robust experience. Refer to [Manage catalog assets](https://deploy-preview-1440--axway-open-docs.netlify.app/docs/catalog/manage-catalog-assets/) for more details.
+Unified Catalog has been enhanced to enable Central Admin users to create and manage categories from the WebUI and provide a more robust experience. Refer to [Manage catalog assets](https://docs.axway.com/bundle/axway-open-docs/page/docs/catalog/manage-catalog-assets/index.html) for more details.
 
 ### Filter Catalog assets updates
 
