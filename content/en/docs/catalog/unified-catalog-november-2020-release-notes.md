@@ -4,7 +4,7 @@ description: The Unified Catalog is the Marketplace of all integration assets in
   the enterprise, that can range from APIs to Managed File Transfer Flows, and
   caters to both providers and consumers.
 ---
-## New features and enhancements[](https://deploy-preview-1432--axway-open-docs.netlify.app/docs/central/amplify_relnotes/amplify-central-november-2020-release-notes/#new-features-and-enhancements)
+## New features and enhancements
 
 The following new features and enhancements are available in this update.
 
