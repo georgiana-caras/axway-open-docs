@@ -6,11 +6,11 @@ description: The Unified Catalog is the Marketplace of all integration assets in
 ---
 ## New features and enhancements[](https://deploy-preview-1432--axway-open-docs.netlify.app/docs/central/amplify_relnotes/amplify-central-november-2020-release-notes/#new-features-and-enhancements)
 
-The following new features and enhancements are available in this update. 
+The following new features and enhancements are available in this update.
 
 ### Categories management through the Unified Catalog UI
 
-Unified Catalog has been enhanced to enable Central Admin users to create and manage categories from the WebUI and provide a more robust experience. Refer to Manage catalog assets (https://deploy-preview-1440--axway-open-docs.netlify.app/docs/catalog/manage-catalog-assets/ ) for more details. 
+Unified Catalog has been enhanced to enable Central Admin users to create and manage categories from the WebUI and provide a more robust experience. Refer to [Manage catalog assets](https://deploy-preview-1440--axway-open-docs.netlify.app/docs/catalog/manage-catalog-assets/) for more details.
 
 ### Filter Catalog assets updates
 
