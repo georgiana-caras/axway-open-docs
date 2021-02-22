@@ -1,0 +1,35 @@
+---
+title: Unified Catalog February 2021 Release Notes
+description: The Unified Catalog is the Marketplace of all integration assets in
+  the enterprise, that can range from APIs to Managed File Transfer Flows, and
+  caters to both providers and consumers.
+---
+## New features and enhancements
+
+The following new features and enhancements are available in this update: 
+
+### AsyncAPI support
+
+Event-based APIs can now be registered in the Unified Catalog as AsyncAPI type.
+
+* Providers can register an AsyncAPI under an environment in Amplify Central and publish it up to the Unified Catalog for consumption.
+* Unified Catalog filter has been enhanced to allow filtering by AsyncAPI type.
+* AsyncAPI specification is displayed in a friendly human-readable format.
+
+### Catalog Subscription enhancements
+
+
+
+## Fixed issue
+
+The following issues were fixed in this update:
+
+* **Team names no longer visible on catalog asset:** Previously, when browsing the Unified Catalog and looked at the team the catalog asset has been shared with, you could no longer see the team names. After the fix, the user can see the team names.
+* **Logging with a user that was assigned the Consumer role, does not allow viewing the subscription details:** Previously, the user would get an "You do not have access privileges to view this content" error. After the fix, the Consumers can access the details of a subscription that belong to their team.
+* **Failure publishing to the Unified Catalog using the Amplify Apigee extension for APIs with long description:** Previously, the API extension would error out creating a consumer instance and publishing to the Catalog from Apigee APIs with description bigger than 350 chars.
+* Now, the description is trimmed to 350 and the full content is added to the overview markdown documentation. Please refer to  [Unified Catalog Integration with Apigee](<* https://github.com/Axway/unified-catalog-integrations/tree/master/apigee/apigee-extension>).
+* **Filter by category pagination issue:** Before the fix, when a user clicked *Show more* to display all categories in the filter, and selected a category from the list, the last page will get loaded multiple time, until the Filter Category disappeared from the screen. Now, all categories are displayed only once.
+
+## Known limitations[](https://deploy-preview-1649--axway-open-docs.netlify.app/docs/catalog/catalog_relnotes/20210130_catalog_relnotes/#known-limitations)
+
+There are no known limitations in this release.
