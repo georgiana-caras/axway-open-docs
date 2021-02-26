@@ -1,5 +1,7 @@
 ---
 title: Unified Catalog February 2021 Release Notes
+linktitle: Unified Catalog February 2021
+weight: 90
 description: The Unified Catalog is the Marketplace of all integration assets in
   the enterprise, that can range from APIs to Managed File Transfer Flows, and
   caters to both providers and consumers.
@@ -26,10 +28,10 @@ Cosmetic enhancements have been made to the catalog asset subscription screens t
 
 The following issues were fixed in this update:
 
-* **Team names no longer visible on catalog asset:** Previously, when browsing the Unified Catalog and looked at the team the catalog asset has been shared with, you could no longer see the team names. After the fix, the user can see the team names.
-* **Logging with a user that was assigned the Consumer role, does not allow viewing the subscription details:** Previously, the user would get an "You do not have access privileges to view this content" error. After the fix, the Consumers can access the details of a subscription that belong to their team.
-* **Failure publishing to the Unified Catalog using the Amplify Apigee extension for APIs with long description:** Previously, the API extension would error out creating a consumer instance and publishing to the Catalog, an API with description bigger than 350 chars. Now, the description is trimmed to 350 and the full content is added to the overview markdown documentation. Please refer to  [Unified Catalog Integration with Apigee](<* https://github.com/Axway/unified-catalog-integrations/tree/master/apigee/apigee-extension>).
-* **Filter by category pagination issue:** Before the fix, when a user clicked *Show more* to display all categories in the filter, and selected a category from the list, the last page will get loaded multiple time, until the Filter Category disappeared from the screen. Now, all categories are displayed only once.
+* **Team names no longer visible on catalog asset:** Previously, when browsing the Unified Catalog and looking at the teams the catalog asset had shared with, you could no longer see the team names. After the fix, the user can see the team names.
+* **Logging with a user that was assigned the Consumer role, does not allow viewing the subscription details:** Previously, the user would get a "You do not have access privileges to view this content" error. After the fix, the consumer can access the details of a subscription that belongs to their team.
+* **Failure publishing to the Unified Catalog using the Amplify Apigee extension for APIs with long description:** Previously, the API extension would error out while creating a consumer instance and publishing to the Catalog when an API description was larger than 350 chars. Now, the description is trimmed to 350 and the full content is added to the overview markdown documentation. Please refer to  [Unified Catalog Integration with Apigee](<* https://github.com/Axway/unified-catalog-integrations/tree/master/apigee/apigee-extension>).
+* **Filter by category pagination issue:** Previously, when a user clicked *Show more* to display all categories in the filter, and then selected a category from the list, the last page would load multiple times until the Filter Category disappeared from the screen. Now, all categories are displayed only once.
 
 ## Known limitations
 
