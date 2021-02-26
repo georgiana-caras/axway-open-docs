@@ -32,6 +32,6 @@ The following issues were fixed in this update:
 * Now, the description is trimmed to 350 and the full content is added to the overview markdown documentation. Please refer to  [Unified Catalog Integration with Apigee](<* https://github.com/Axway/unified-catalog-integrations/tree/master/apigee/apigee-extension>).
 * **Filter by category pagination issue:** Before the fix, when a user clicked *Show more* to display all categories in the filter, and selected a category from the list, the last page will get loaded multiple time, until the Filter Category disappeared from the screen. Now, all categories are displayed only once.
 
-## Known limitations[](https://deploy-preview-1649--axway-open-docs.netlify.app/docs/catalog/catalog_relnotes/20210130_catalog_relnotes/#known-limitations)
+## Known limitations
 
 There are no known limitations in this release.
